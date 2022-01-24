@@ -1,0 +1,26 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "Examen Final Segundo Parcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakitowea11/Restaurant.git"
+  },
+  "author": "CristopherRugel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakitowea11/Restaurant.git"
+  },
+  "homepage": "https://github.com/sakitowea11/Restaurant.git",
+  "dependencies": {
+    "express": "^4.17.2",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.2.0",
+    "heroku": "^7.59.2",
+    "nodemon": "^2.0.15"
+  }
+}
